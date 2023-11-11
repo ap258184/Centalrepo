@@ -168,3 +168,21 @@ tree
 sudo su
 history
 sudo su
+ls
+pwd
+tree
+cd home
+ls
+history
+sudo get-apt update -y
+sudo apt get update -y
+apt update -y
+git apt update -y
+help update
+pwd
+sudo su
+ls
+sudo su
+ls
+ip
+sudo su
